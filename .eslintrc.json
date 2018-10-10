@@ -1,0 +1,18 @@
+{
+    "env": {
+      "node": true,
+      "es6": true
+    },
+    "extends": "airbnb-base",
+    "rules": {
+      "indent": [
+        2,
+        4
+      ],
+      "max-len": [
+        2,
+        120
+      ]
+    }
+  }
+  
